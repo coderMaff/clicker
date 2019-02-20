@@ -104,13 +104,13 @@ void fnProcess() {
             ( vScreenShot.pixels[viLoop + (vScreenShot.width * 4)] == -16777216 ) &&
             ( vScreenShot.pixels[viLoop + (vScreenShot.width * 5)] == -16777216 ) &&
             ( vScreenShot.pixels[viLoop + (vScreenShot.width * 6)] == -16777216 ) &&
-            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 7)] == -16777216 ) &&               ( vScreenShot.pixels[viLoop + (vScreenShot.width * 5)] == -16777216 ) &&
+            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 7)] == -16777216 ) &&              
             ( vScreenShot.pixels[viLoop + (vScreenShot.width * 8)] == -16777216 ) &&
-            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 9)] == -16777216 ) &&               ( vScreenShot.pixels[viLoop + (vScreenShot.width * 5)] == -16777216 ) &&
+            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 9)] == -16777216 ) &&             
             ( vScreenShot.pixels[viLoop + (vScreenShot.width * 10)] == -16777216 ) &&
-            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 11)] == -16777216 ) &&               ( vScreenShot.pixels[viLoop + (vScreenShot.width * 5)] == -16777216 ) &&
+            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 11)] == -16777216 ) &&            
             ( vScreenShot.pixels[viLoop + (vScreenShot.width * 12)] == -16777216 ) &&
-            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 13)] == -16777216 ) &&               ( vScreenShot.pixels[viLoop + (vScreenShot.width * 5)] == -16777216 ) &&
+            ( vScreenShot.pixels[viLoop + (vScreenShot.width * 13)] == -16777216 ) &&            
             ( vScreenShot.pixels[viLoop + (vScreenShot.width * 14)] == -16777216 ) 
 
           ) {
